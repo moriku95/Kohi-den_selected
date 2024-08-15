@@ -1,4 +1,4 @@
-Fork From [Kohi-den](https://github.com/Kohi-den/extensions)
+Personal Selection from [Kohi-den](https://github.com/Kohi-den/extensions).
 
 ## Guide
 
